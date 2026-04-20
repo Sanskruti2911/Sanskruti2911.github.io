@@ -97,7 +97,7 @@ section div {
 
 section div div {
   padding: 5px;
-  color: black;
+
   font-size: 12px;
 }
 
@@ -288,4 +288,13 @@ p {
 /* better contrast */
 section {
   color: white;
+}
+/* FIX FOR SKILLS + PROJECT TEXT */
+.card, .card p, .card h3 {
+  color: white;
+}
+
+/* ensure no black text anywhere */
+section p, section li {
+  color: #e5e7eb;
 }
