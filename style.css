@@ -265,3 +265,27 @@ nav a:hover::after {
   font-size: 14px;
   line-height: 1.5;
 }
+/* FORCE TEXT COLOR FIX */
+body {
+  color: white;
+}
+
+/* headings */
+h2, h3 {
+  color: cyan;
+}
+
+/* paragraphs */
+p {
+  color: #e5e7eb;
+}
+
+/* cards text */
+.card {
+  color: white;
+}
+
+/* better contrast */
+section {
+  color: white;
+}
