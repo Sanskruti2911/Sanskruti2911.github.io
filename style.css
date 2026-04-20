@@ -95,11 +95,6 @@ section div {
   margin-bottom: 15px;
 }
 
-section div div {
-  padding: 5px;
-
-  font-size: 12px;
-}
 
 /* CONTACT FORM */
 input, textarea {
